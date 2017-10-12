@@ -2,7 +2,7 @@
 #wall .tag-1 {
   display: none;
 }
-#wall .tag-1:after {
+#wall #tag-2[z-index: 6]{
   display: none;
 }
 
